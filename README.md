@@ -2,4 +2,4 @@
 
 hello,
 
-  The assignments used for this project were assignments 5, assignment 7, and assignment 10
+  The assignments used for this project were _**assignment 5**_, _**assignment 7**_, and _**assignment 10**_
